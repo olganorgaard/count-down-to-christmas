@@ -1,7 +1,7 @@
 <h1>🎅🕒  Count Down to Christmas application</h1>
 <p>🎄 Count Down to Christmas is a fun and festive app that tracks the days, hours, and minutes until Christmas! Perfect for getting into the holiday spirit and keeping the excitement alive all season long.</p>
 <br><h2> 🚀 Live Demo </h2>
-<p>Check it out live here: <a href="https://count-down-santa.glitch.me/">https://count-down-santa.glitch.me/</a> </p>
+<p>Check it out live here: <a href="https://christmass-count-down.netlify.app/">https://christmass-count-down.netlify.app/</a> </p>
 <br><h2> 📌 Setup Instructions </h2>
 
 1. Clone the repository:
