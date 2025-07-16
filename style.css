@@ -4,7 +4,7 @@ body {
 }
 
 .count {
-	background-image: url("https://cdn.glitch.global/995104bd-f532-4e12-9912-0313aa06b8b1/christmas2.jpg?v=1737007027997");
+	background-image: url(img/christmas2.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: rgba(255, 250, 251, 0.585);
@@ -83,6 +83,10 @@ h3 {
 	display: flex;
 }
 
+.btn :hover{
+	cursor: pointer;
+}
+
 button {
 	margin-left: 50px;
 	z-index: 1;
@@ -92,7 +96,7 @@ button {
 
 /*FILMS*/
 .films {
-	background: linear-gradient(rgba(255, 255, 255, .7), rgba(255, 255, 255, .7)), url(https://cdn.glitch.global/995104bd-f532-4e12-9912-0313aa06b8b1/christmas2.jpg?v=1737007027997) no-repeat;
+	background: linear-gradient(rgba(255, 255, 255, .7), rgba(255, 255, 255, .7)), url(img/christmas2.webp) no-repeat;
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -134,7 +138,7 @@ button {
 }
 
 .movies_container {
-	background-image: url('https://cdn.glitch.global/995104bd-f532-4e12-9912-0313aa06b8b1/christmas3.jpg?v=1737006989081');
+	background-image: url(img/christmas3.webp);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
